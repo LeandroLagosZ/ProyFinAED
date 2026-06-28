@@ -1,0 +1,3 @@
+G006;Game 6;MMORPG;PC;98.0;17249934;2023-08-16;Bethesda;Bandai Namco;50.13;Single Player;false;24.9
+G026;Game 26;Metroidvania;PC;71.0;4042592;2013-07-28;Ubisoft;Sony;77.59;Single Player;false;41.5
+G002;Game 2;MOBA;PC;83.0;23272876;2012-04-16;Riot Games;Microsoft;46.65;Co-op;true;53.8

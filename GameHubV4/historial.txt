@@ -1,0 +1,3 @@
+G009;Game 9;Metroidvania;PC;93.0;22395992;2017-05-10;FromSoftware;Bandai Namco;68.2;Single+Multi;true;56.3
+G008;Game 8;Horror;PC;81.0;5414239;2015-02-08;Ubisoft;EA;35.3;Multiplayer;true;165.6
+G007;Game 7;Metroidvania;PC;90.0;8965644;2016-01-12;Riot Games;EA;75.13;Multiplayer;true;28.4
