@@ -1,0 +1,201 @@
+id,nombre,genero,plataforma,puntuacion,descargas,fecha_lanzamiento,desarrollador,editor,precio,modo_juego,multijugador,tamano_gb
+G001,Game 1,Roguelike,PC,87,19694497,2010-05-15,Valve,Square Enix,16.71,Single+Multi,Si,53.6
+G002,Game 2,MOBA,PC,83,23272876,2012-04-16,Riot Games,Microsoft,46.65,Co-op,Si,53.8
+G003,Game 3,RPG,PC,80,14683597,2026-02-24,Supergiant,EA,79.2,Single Player,No,62.1
+G004,Game 4,Racing,PC,90,10531434,2019-09-29,Bethesda,Indie,10.5,Co-op,Si,15.7
+G005,Game 5,Sandbox,PC,81,18628286,2025-09-29,Respawn,Ubisoft,23.13,Single+Multi,Si,67.4
+G006,Game 6,MMORPG,PC,98,17249934,2023-08-16,Bethesda,Bandai Namco,50.13,Single Player,No,24.9
+G007,Game 7,Metroidvania,PC,90,8965644,2016-01-12,Riot Games,EA,75.13,Multiplayer,Si,28.4
+G008,Game 8,Horror,PC,81,5414239,2015-02-08,Ubisoft,EA,35.3,Multiplayer,Si,165.6
+G009,Game 9,Metroidvania,PC,93,22395992,2017-05-10,FromSoftware,Bandai Namco,68.2,Single+Multi,Si,56.3
+G010,Game 10,FPS,PC,89,14484943,2021-06-27,Larian Studios,Capcom,45.15,Co-op,Si,40.2
+G011,Game 11,Survival,PC,83,20533172,2021-01-23,Larian Studios,Square Enix,39.53,Single Player,No,25.6
+G012,Game 12,Simulation,PC,84,7320377,2019-03-03,Paradox,Indie,42.79,Co-op,Si,133.2
+G013,Game 13,FPS,PC,82,17748897,2012-01-18,FromSoftware,Microsoft,63.08,Multiplayer,Si,114.9
+G014,Game 14,Horror,PC,84,5548648,2012-12-15,Blizzard,Microsoft,67.46,Co-op,Si,77.8
+G015,Game 15,Survival,PC,80,10842233,2023-08-12,Respawn,Bethesda,60.63,Single Player,No,69.1
+G016,Game 16,Strategy,PC,81,5413189,2018-02-06,Ubisoft,Square Enix,76.52,Multiplayer,Si,48.8
+G017,Game 17,Roguelike,PC,98,5291994,2017-03-14,Respawn,Ubisoft,48.01,Single+Multi,Si,86.6
+G018,Game 18,JRPG,PC,76,18170704,2015-11-28,Larian Studios,Indie,63.11,Co-op,Si,136.6
+G019,Game 19,Racing,PC,91,4458640,2018-01-24,Blizzard,Take-Two,75.31,Single+Multi,Si,102.7
+G020,Game 20,Simulation,PC,96,2018314,2020-12-11,Ubisoft,Indie,54.22,Co-op,Si,13.3
+G021,Game 21,Simulation,PC,71,15747602,2019-11-02,Bethesda,Bethesda,47.08,Single+Multi,Si,110.4
+G022,Game 22,Survival,PC,80,4390799,2012-04-02,Supergiant,Square Enix,44.34,Single Player,No,12.1
+G023,Game 23,Metroidvania,PC,91,8017281,2017-09-23,Blizzard,Paradox,21.82,Multiplayer,Si,176.1
+G024,Game 24,Roguelike,PC,90,11796176,2013-01-11,Bethesda,Microsoft,58.95,Co-op,Si,111.0
+G025,Game 25,Sandbox,PC,73,9520543,2019-11-12,CD Projekt Red,Paradox,54.23,Single Player,No,22.8
+G026,Game 26,Metroidvania,PC,71,4042592,2013-07-28,Ubisoft,Sony,77.59,Single Player,No,41.5
+G027,Game 27,MMORPG,PC,81,15589828,2021-12-18,Valve,Microsoft,10.3,Single+Multi,Si,5.0
+G028,Game 28,Roguelike,PC,93,22418203,2015-11-19,Valve,Ubisoft,49.5,Multiplayer,Si,59.6
+G029,Game 29,Racing,PC,91,13173435,2023-06-06,Riot Games,Bethesda,53.07,Co-op,Si,97.2
+G030,Game 30,JRPG,PC,74,8473278,2018-08-09,Blizzard,Capcom,29.04,Co-op,Si,13.7
+G031,Game 31,MOBA,PC,84,16909427,2014-10-18,Respawn,Microsoft,30.62,Co-op,Si,154.1
+G032,Game 32,RPG,PC,82,1945284,2020-11-23,Riot Games,Indie,67.47,Single Player,No,89.2
+G033,Game 33,Survival,PC,93,24013999,2010-01-22,Supergiant,Bethesda,71.57,Single Player,No,54.2
+G034,Game 34,FPS,PC,95,672872,2014-11-28,Capcom,Paradox,39.83,Co-op,Si,169.0
+G035,Game 35,FPS,PC,91,5696990,2011-05-24,Bethesda,Sony,58.18,Co-op,Si,138.2
+G036,Game 36,MOBA,PC,90,10484356,2010-02-10,Larian Studios,Take-Two,74.27,Co-op,Si,108.2
+G037,Game 37,Horror,PC,72,15633974,2011-04-10,Riot Games,Paradox,39.78,Multiplayer,Si,97.1
+G038,Game 38,RPG,PC,82,22301607,2020-10-03,Capcom,Microsoft,36.32,Single Player,No,15.5
+G039,Game 39,Roguelike,PC,76,20793614,2023-11-09,Blizzard,Ubisoft,26.25,Single+Multi,Si,71.7
+G040,Game 40,FPS,PC,93,23961439,2025-10-17,Bethesda,Microsoft,64.25,Multiplayer,Si,28.7
+G041,Game 41,Adventure,PC,79,5441873,2021-07-14,Bethesda,Microsoft,72.56,Single Player,No,12.7
+G042,Game 42,Adventure,PC,79,14577102,2022-12-07,Capcom,Square Enix,12.26,Co-op,Si,141.2
+G043,Game 43,Metroidvania,PC,72,21861814,2017-01-10,Paradox,EA,44.1,Single Player,No,64.5
+G044,Game 44,Roguelike,PC,86,773419,2010-10-02,Blizzard,Take-Two,76.74,Single+Multi,Si,69.5
+G045,Game 45,MMORPG,PC,70,10396582,2024-10-02,Capcom,Microsoft,30.4,Single+Multi,Si,117.4
+G046,Game 46,Horror,PC,82,17213274,2015-10-18,Respawn,Square Enix,19.04,Single Player,No,167.4
+G047,Game 47,Survival,PC,74,11251421,2020-10-07,Larian Studios,Square Enix,48.28,Multiplayer,Si,162.1
+G048,Game 48,MMORPG,PC,91,797189,2021-05-23,Bethesda,Paradox,10.69,Multiplayer,Si,134.8
+G049,Game 49,JRPG,PC,76,3135417,2019-10-29,Blizzard,Valve,15.32,Multiplayer,Si,12.7
+G050,Game 50,MMORPG,PC,81,20676712,2023-07-10,Respawn,Indie,61.66,Single+Multi,Si,47.9
+G051,Game 51,JRPG,PC,80,23962652,2012-02-12,Ubisoft,Bandai Namco,15.62,Single Player,No,48.4
+G052,Game 52,JRPG,PC,78,509206,2014-02-07,Valve,Take-Two,61.56,Multiplayer,Si,122.0
+G053,Game 53,FPS,PC,72,23901960,2019-02-11,Paradox,Bandai Namco,23.31,Multiplayer,Si,136.8
+G054,Game 54,Metroidvania,PC,96,17974168,2010-09-29,Ubisoft,Valve,52.73,Single Player,No,45.5
+G055,Game 55,Metroidvania,PC,86,17060624,2010-12-23,FromSoftware,Bethesda,62.44,Single+Multi,Si,111.2
+G056,Game 56,MOBA,PC,97,16915236,2011-12-29,Ubisoft,Take-Two,44.6,Multiplayer,Si,74.9
+G057,Game 57,Sandbox,PC,90,13543643,2024-10-26,Paradox,Sony,72.9,Single+Multi,Si,11.9
+G058,Game 58,Survival,PC,80,16710484,2011-04-18,Paradox,Square Enix,35.15,Co-op,Si,46.8
+G059,Game 59,Roguelike,PC,76,13967147,2014-03-16,Paradox,Bandai Namco,46.72,Multiplayer,Si,7.9
+G060,Game 60,Survival,PC,92,7561078,2023-01-04,Respawn,Sony,61.65,Multiplayer,Si,154.0
+G061,Game 61,Metroidvania,PC,91,1748880,2017-12-15,FromSoftware,Sony,69.75,Multiplayer,Si,173.7
+G062,Game 62,Simulation,PC,72,20515413,2026-05-15,Supergiant,Bandai Namco,67.99,Multiplayer,Si,177.7
+G063,Game 63,JRPG,PC,84,18927845,2021-06-27,Paradox,Square Enix,61.74,Co-op,Si,107.2
+G064,Game 64,Simulation,PC,75,5862230,2012-02-25,Valve,Sony,25.24,Co-op,Si,152.4
+G065,Game 65,Simulation,PC,95,7268699,2014-10-20,Larian Studios,EA,60.66,Single Player,No,9.5
+G066,Game 66,JRPG,PC,95,4165277,2023-09-02,CD Projekt Red,Indie,70.94,Co-op,Si,53.5
+G067,Game 67,Survival,PC,85,11308261,2011-05-12,Respawn,Capcom,51.65,Single Player,No,137.9
+G068,Game 68,MMORPG,PC,92,9519346,2023-06-05,Larian Studios,Square Enix,17.96,Single Player,No,85.8
+G069,Game 69,FPS,PC,79,8718320,2019-01-02,Ubisoft,Square Enix,40.06,Single+Multi,Si,21.5
+G070,Game 70,Roguelike,PC,95,14243000,2022-12-15,Respawn,Take-Two,79.59,Co-op,Si,69.3
+G071,Game 71,Roguelike,PC,94,4724486,2018-02-17,CD Projekt Red,Take-Two,74.63,Co-op,Si,83.3
+G072,Game 72,Survival,PC,87,17268717,2021-08-06,Bethesda,Square Enix,32.28,Single+Multi,Si,68.0
+G073,Game 73,Metroidvania,PC,98,10334864,2022-09-02,Supergiant,EA,37.81,Multiplayer,Si,170.1
+G074,Game 74,Simulation,PC,82,11094920,2019-12-09,FromSoftware,Valve,18.63,Co-op,Si,175.9
+G075,Game 75,Survival,PC,82,11240083,2015-07-22,Bethesda,Ubisoft,61.85,Multiplayer,Si,80.1
+G076,Game 76,RPG,PC,72,11800118,2021-02-13,Supergiant,Square Enix,53.86,Single Player,No,69.7
+G077,Game 77,Survival,PC,93,20378516,2025-07-11,Larian Studios,Valve,73.43,Single+Multi,Si,74.5
+G078,Game 78,Roguelike,PC,75,1286199,2019-05-28,Riot Games,Indie,14.97,Single+Multi,Si,37.0
+G079,Game 79,Survival,PC,78,10538622,2021-11-14,Bethesda,Indie,51.99,Co-op,Si,149.4
+G080,Game 80,Survival,PC,81,19086798,2014-09-30,Larian Studios,Paradox,33.69,Co-op,Si,57.4
+G081,Game 81,Horror,PC,94,15152225,2023-05-22,Supergiant,Paradox,40.55,Single+Multi,Si,112.5
+G082,Game 82,Adventure,PC,96,21560637,2017-10-20,Ubisoft,Ubisoft,15.74,Single Player,No,57.4
+G083,Game 83,Racing,PC,80,11622473,2011-06-09,Blizzard,Paradox,34.27,Co-op,Si,21.4
+G084,Game 84,Sandbox,PC,88,17611464,2013-09-18,CD Projekt Red,Sony,15.7,Single Player,No,19.8
+G085,Game 85,Simulation,PC,86,3249554,2016-08-20,FromSoftware,Square Enix,75.63,Single Player,No,6.1
+G086,Game 86,Adventure,PC,93,18937681,2018-12-21,Capcom,Ubisoft,68.83,Single+Multi,Si,45.7
+G087,Game 87,Horror,PC,77,7222162,2014-08-28,CD Projekt Red,Bandai Namco,74.87,Single+Multi,Si,16.8
+G088,Game 88,Roguelike,PC,87,13136274,2021-01-28,Ubisoft,Bandai Namco,24.7,Single+Multi,Si,49.9
+G089,Game 89,Survival,PC,82,4295447,2023-01-21,Capcom,Take-Two,60.16,Co-op,Si,28.1
+G090,Game 90,Survival,PC,76,21016460,2011-08-21,Ubisoft,Sony,23.05,Single+Multi,Si,172.1
+G091,Game 91,Horror,PC,83,8973724,2023-09-11,Bethesda,Take-Two,57.23,Co-op,Si,27.2
+G092,Game 92,Racing,PC,76,2205204,2018-02-03,Paradox,Square Enix,30.02,Multiplayer,Si,61.0
+G093,Game 93,FPS,PC,81,24396197,2012-12-26,Bethesda,Square Enix,18.01,Multiplayer,Si,34.9
+G094,Game 94,Adventure,PC,88,21058132,2024-11-17,Blizzard,Valve,40.6,Single Player,No,117.6
+G095,Game 95,JRPG,PC,76,24439495,2011-11-20,Riot Games,Take-Two,78.37,Single Player,No,4.5
+G096,Game 96,Metroidvania,PC,93,14829695,2023-10-06,Paradox,Bandai Namco,17.62,Single+Multi,Si,27.6
+G097,Game 97,Sandbox,PC,83,13003957,2018-03-16,Bethesda,Paradox,29.69,Single+Multi,Si,105.5
+G098,Game 98,Simulation,PC,93,418240,2018-05-31,Riot Games,Take-Two,43.42,Co-op,Si,79.3
+G099,Game 99,Sandbox,PC,76,5257066,2018-05-24,Respawn,Indie,36.44,Single Player,No,39.3
+G100,Game 100,Adventure,PC,94,19421000,2014-07-21,Ubisoft,Sony,58.48,Single+Multi,Si,18.5
+G101,Game 101,Simulation,PC,87,21497826,2017-07-12,Larian Studios,Take-Two,28.29,Co-op,Si,108.5
+G102,Game 102,Racing,PC,90,1785322,2019-03-18,Larian Studios,Capcom,52.32,Single+Multi,Si,56.6
+G103,Game 103,JRPG,PC,97,1277128,2015-10-28,CD Projekt Red,Ubisoft,57.18,Single+Multi,Si,172.1
+G104,Game 104,Roguelike,PC,80,19230443,2013-09-26,Ubisoft,Sony,76.73,Single+Multi,Si,58.0
+G105,Game 105,Horror,PC,72,22368724,2010-07-28,Capcom,Bethesda,11.09,Single+Multi,Si,50.5
+G106,Game 106,Metroidvania,PC,83,22025389,2013-01-28,Blizzard,Valve,68.47,Multiplayer,Si,82.2
+G107,Game 107,JRPG,PC,94,14175970,2019-07-22,Blizzard,Valve,42.99,Single Player,No,71.4
+G108,Game 108,Adventure,PC,95,4009960,2017-03-27,Riot Games,Square Enix,66.0,Single+Multi,Si,109.1
+G109,Game 109,Simulation,PC,72,16726776,2025-02-19,Larian Studios,Ubisoft,63.9,Co-op,Si,18.3
+G110,Game 110,JRPG,PC,82,21338523,2013-03-24,Valve,Microsoft,59.45,Co-op,Si,80.3
+G111,Game 111,MMORPG,PC,81,2141430,2015-08-01,Blizzard,Sony,21.86,Co-op,Si,37.6
+G112,Game 112,Roguelike,PC,91,22634381,2019-01-28,Ubisoft,Take-Two,44.85,Multiplayer,Si,135.6
+G113,Game 113,JRPG,PC,72,14333061,2025-09-17,Supergiant,Indie,16.37,Single Player,No,4.1
+G114,Game 114,FPS,PC,98,7776833,2024-05-01,Riot Games,Ubisoft,64.56,Single Player,No,50.0
+G115,Game 115,Roguelike,PC,92,13822428,2011-10-23,FromSoftware,Indie,69.16,Multiplayer,Si,169.3
+G116,Game 116,Adventure,PC,75,4691470,2018-06-03,CD Projekt Red,Capcom,50.34,Multiplayer,Si,39.3
+G117,Game 117,FPS,PC,93,3801244,2010-05-24,Riot Games,Bethesda,63.4,Co-op,Si,7.0
+G118,Game 118,RPG,PC,94,3817721,2012-05-15,Capcom,Valve,37.72,Multiplayer,Si,55.4
+G119,Game 119,Sandbox,PC,76,9166205,2014-09-10,FromSoftware,Bethesda,42.65,Co-op,Si,178.1
+G120,Game 120,MMORPG,PC,81,22696992,2019-07-09,Larian Studios,Valve,50.92,Multiplayer,Si,47.2
+G121,Game 121,Metroidvania,PC,72,2079566,2020-07-04,Supergiant,Sony,74.88,Multiplayer,Si,109.2
+G122,Game 122,Adventure,PC,79,8817446,2012-03-04,CD Projekt Red,Valve,76.96,Co-op,Si,143.3
+G123,Game 123,JRPG,PC,92,10260984,2015-10-21,CD Projekt Red,Bandai Namco,35.11,Multiplayer,Si,15.8
+G124,Game 124,RPG,PC,83,23884894,2011-02-12,Capcom,Sony,44.08,Multiplayer,Si,80.5
+G125,Game 125,MOBA,PC,89,15504087,2020-01-25,Respawn,Sony,63.7,Single+Multi,Si,5.3
+G126,Game 126,Strategy,PC,90,2876867,2020-10-18,Ubisoft,EA,22.98,Single Player,No,40.7
+G127,Game 127,MMORPG,PC,93,3690782,2012-04-30,FromSoftware,Capcom,60.09,Multiplayer,Si,44.2
+G128,Game 128,Survival,PC,73,19870645,2013-04-06,Bethesda,Sony,17.55,Single+Multi,Si,110.0
+G129,Game 129,FPS,PC,72,6957724,2017-10-16,CD Projekt Red,EA,44.6,Single+Multi,Si,61.4
+G130,Game 130,MOBA,PC,73,19613447,2021-07-13,Bethesda,EA,49.65,Single+Multi,Si,38.5
+G131,Game 131,Sandbox,PC,73,674504,2018-04-24,Bethesda,EA,59.71,Multiplayer,Si,70.1
+G132,Game 132,Horror,PC,82,6173173,2022-10-29,Riot Games,Paradox,69.53,Multiplayer,Si,30.0
+G133,Game 133,Metroidvania,PC,98,9793106,2013-10-09,Respawn,Paradox,64.07,Co-op,Si,101.4
+G134,Game 134,Survival,PC,88,7792612,2012-01-20,Paradox,Paradox,52.51,Single+Multi,Si,36.0
+G135,Game 135,Strategy,PC,96,12687770,2016-12-27,Riot Games,Paradox,32.57,Multiplayer,Si,130.1
+G136,Game 136,FPS,PC,96,5688685,2021-11-05,Valve,EA,39.19,Co-op,Si,170.4
+G137,Game 137,FPS,PC,91,22241348,2025-09-07,FromSoftware,Indie,61.22,Single Player,No,89.3
+G138,Game 138,Adventure,PC,79,6678377,2021-08-16,Capcom,Take-Two,45.12,Co-op,Si,160.6
+G139,Game 139,RPG,PC,95,8875591,2012-06-10,Capcom,Valve,51.46,Co-op,Si,16.9
+G140,Game 140,Adventure,PC,87,14534941,2018-04-30,Blizzard,Bethesda,21.45,Single+Multi,Si,81.5
+G141,Game 141,RPG,PC,79,14776718,2014-01-15,Paradox,Microsoft,53.92,Single+Multi,Si,18.6
+G142,Game 142,Racing,PC,71,24544758,2022-05-07,CD Projekt Red,EA,52.9,Single Player,No,131.2
+G143,Game 143,Simulation,PC,87,22820215,2013-07-06,Riot Games,Bandai Namco,39.76,Co-op,Si,39.3
+G144,Game 144,MMORPG,PC,89,4393462,2025-02-24,Paradox,Indie,65.24,Co-op,Si,115.0
+G145,Game 145,MOBA,PC,90,3814393,2010-07-26,Riot Games,Capcom,73.65,Multiplayer,Si,49.6
+G146,Game 146,FPS,PC,78,18224885,2015-08-21,Ubisoft,Ubisoft,70.38,Single Player,No,23.3
+G147,Game 147,FPS,PC,97,12991299,2020-03-19,Riot Games,EA,25.47,Multiplayer,Si,25.5
+G148,Game 148,Metroidvania,PC,80,5656719,2013-11-07,Valve,Take-Two,70.01,Single+Multi,Si,157.0
+G149,Game 149,Roguelike,PC,87,1433430,2024-03-19,CD Projekt Red,Square Enix,19.53,Single Player,No,72.1
+G150,Game 150,MMORPG,PC,70,20547530,2011-02-26,CD Projekt Red,Microsoft,28.26,Co-op,Si,100.1
+G151,Game 151,Simulation,PC,94,14560972,2012-04-21,Bethesda,Microsoft,37.98,Single Player,No,28.6
+G152,Game 152,Racing,PC,80,20924635,2015-11-14,Supergiant,Bethesda,38.68,Co-op,Si,101.5
+G153,Game 153,Racing,PC,87,21681017,2014-03-05,Supergiant,Square Enix,75.56,Multiplayer,Si,130.2
+G154,Game 154,Racing,PC,84,11403157,2022-05-21,Supergiant,Take-Two,40.32,Multiplayer,Si,5.8
+G155,Game 155,Metroidvania,PC,71,10048598,2016-03-29,Ubisoft,Paradox,27.23,Co-op,Si,53.8
+G156,Game 156,Metroidvania,PC,76,20735932,2020-07-08,Capcom,Indie,47.15,Co-op,Si,170.9
+G157,Game 157,JRPG,PC,93,24429279,2014-08-30,Ubisoft,Capcom,53.13,Single Player,No,97.7
+G158,Game 158,FPS,PC,85,8593018,2013-02-27,Supergiant,Indie,73.8,Single+Multi,Si,18.5
+G159,Game 159,Sandbox,PC,80,15157452,2010-09-18,Larian Studios,Sony,63.11,Multiplayer,Si,169.6
+G160,Game 160,Roguelike,PC,70,21961966,2026-01-02,Supergiant,Paradox,58.11,Single+Multi,Si,26.6
+G161,Game 161,FPS,PC,74,23955225,2022-06-14,Ubisoft,Paradox,19.14,Multiplayer,Si,80.2
+G162,Game 162,MOBA,PC,76,20585768,2018-12-08,FromSoftware,Bethesda,65.41,Multiplayer,Si,6.1
+G163,Game 163,JRPG,PC,91,1116736,2026-04-25,CD Projekt Red,Square Enix,25.35,Multiplayer,Si,159.9
+G164,Game 164,Simulation,PC,72,19243080,2021-05-07,FromSoftware,Sony,66.78,Multiplayer,Si,97.6
+G165,Game 165,Strategy,PC,87,23584597,2025-10-23,Paradox,Bandai Namco,14.13,Co-op,Si,125.2
+G166,Game 166,Strategy,PC,83,22178858,2011-11-22,Bethesda,Ubisoft,62.86,Single Player,No,33.2
+G167,Game 167,Survival,PC,71,18969656,2012-03-07,FromSoftware,EA,56.49,Single Player,No,18.5
+G168,Game 168,Sandbox,PC,90,23038590,2022-12-07,Supergiant,Bandai Namco,78.69,Single Player,No,32.1
+G169,Game 169,RPG,PC,87,9949807,2024-10-18,Paradox,Indie,38.01,Single+Multi,Si,163.9
+G170,Game 170,Strategy,PC,93,22722123,2012-11-27,Paradox,Indie,62.99,Single+Multi,Si,36.5
+G171,Game 171,FPS,PC,71,12505733,2019-11-20,Valve,EA,10.19,Single+Multi,Si,46.3
+G172,Game 172,Simulation,PC,77,15897219,2010-08-30,Bethesda,Ubisoft,75.74,Single+Multi,Si,56.4
+G173,Game 173,Adventure,PC,82,23391315,2017-01-17,Ubisoft,Ubisoft,70.88,Single+Multi,Si,89.4
+G174,Game 174,Roguelike,PC,80,20923278,2016-12-19,FromSoftware,Square Enix,40.12,Co-op,Si,159.4
+G175,Game 175,Simulation,PC,92,24750858,2012-10-08,Valve,Paradox,53.19,Single+Multi,Si,92.5
+G176,Game 176,MMORPG,PC,87,810100,2024-12-02,Respawn,Valve,49.85,Single+Multi,Si,108.4
+G177,Game 177,Racing,PC,78,19493083,2022-06-15,Riot Games,Sony,44.14,Co-op,Si,156.4
+G178,Game 178,Racing,PC,84,24664762,2021-05-04,Valve,Ubisoft,23.05,Co-op,Si,59.4
+G179,Game 179,Adventure,PC,80,14136470,2011-10-21,Bethesda,Bandai Namco,73.67,Single+Multi,Si,147.7
+G180,Game 180,Survival,PC,96,16667203,2020-05-03,Blizzard,Indie,34.47,Co-op,Si,98.5
+G181,Game 181,Adventure,PC,93,8955639,2025-06-04,Ubisoft,EA,25.14,Co-op,Si,69.1
+G182,Game 182,JRPG,PC,95,19918591,2018-12-15,Bethesda,Take-Two,35.79,Multiplayer,Si,126.8
+G183,Game 183,Adventure,PC,76,11278209,2013-08-24,Riot Games,Take-Two,52.1,Multiplayer,Si,80.9
+G184,Game 184,MMORPG,PC,94,17067670,2026-03-20,Riot Games,Paradox,10.57,Single Player,No,169.6
+G185,Game 185,JRPG,PC,96,1452996,2011-10-09,Valve,Capcom,25.23,Single Player,No,29.2
+G186,Game 186,Roguelike,PC,96,21380628,2010-10-26,Respawn,Sony,70.55,Co-op,Si,70.1
+G187,Game 187,Adventure,PC,70,11990657,2016-04-21,Capcom,Square Enix,24.34,Multiplayer,Si,84.0
+G188,Game 188,Strategy,PC,86,23335144,2019-07-25,Larian Studios,Sony,24.28,Single+Multi,Si,109.2
+G189,Game 189,MMORPG,PC,92,6379493,2020-09-10,Bethesda,Paradox,56.62,Multiplayer,Si,88.8
+G190,Game 190,Simulation,PC,80,9381253,2010-10-04,Supergiant,Indie,58.57,Single+Multi,Si,131.7
+G191,Game 191,Horror,PC,87,18223001,2019-10-18,Paradox,Sony,48.29,Multiplayer,Si,177.0
+G192,Game 192,Racing,PC,91,18948766,2015-06-02,Valve,Take-Two,60.15,Single Player,No,33.2
+G193,Game 193,MMORPG,PC,97,16358475,2018-11-24,Capcom,Microsoft,28.73,Multiplayer,Si,95.0
+G194,Game 194,FPS,PC,77,22278122,2011-02-14,FromSoftware,Sony,14.65,Single Player,No,147.5
+G195,Game 195,Survival,PC,75,14126125,2020-04-28,Paradox,Microsoft,68.26,Multiplayer,Si,176.0
+G196,Game 196,FPS,PC,98,15519127,2019-10-15,Respawn,Bandai Namco,36.8,Multiplayer,Si,45.6
+G197,Game 197,Sandbox,PC,83,24740055,2010-08-17,CD Projekt Red,Sony,29.8,Multiplayer,Si,62.6
+G198,Game 198,MOBA,PC,71,23399520,2011-09-17,Bethesda,Take-Two,50.38,Single+Multi,Si,10.8
+G199,Game 199,MMORPG,PC,87,19428438,2013-10-08,Bethesda,Sony,73.58,Single Player,No,78.3
+G200,Game 200,RPG,PC,85,3974242,2015-03-08,Larian Studios,Ubisoft,34.88,Multiplayer,Si,59.9
